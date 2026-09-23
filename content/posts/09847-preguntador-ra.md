@@ -1,7 +1,7 @@
 ---
 title: "Preguntador, ra"
 slug: preguntador-ra
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - s.
   - adj.

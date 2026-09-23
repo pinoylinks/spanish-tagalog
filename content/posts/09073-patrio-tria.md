@@ -1,7 +1,7 @@
 ---
 title: "Patrio, tria"
 slug: patrio-tria
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

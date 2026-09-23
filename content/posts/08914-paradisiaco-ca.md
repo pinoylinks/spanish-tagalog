@@ -1,7 +1,7 @@
 ---
 title: "Paradisíaco, ca"
 slug: paradisiaco-ca
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

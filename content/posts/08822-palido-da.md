@@ -1,7 +1,7 @@
 ---
 title: "Pálido, da"
 slug: palido-da
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

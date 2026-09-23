@@ -1,7 +1,7 @@
 ---
 title: "Setecientos, tas"
 slug: setecientos-tas
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
 ---

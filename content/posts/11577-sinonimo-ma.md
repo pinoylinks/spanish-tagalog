@@ -1,7 +1,7 @@
 ---
 title: "Sinónimo, ma"
 slug: sinonimo-ma
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
   - m

@@ -1,7 +1,7 @@
 ---
 title: "Puro, ra"
 slug: puro-ra
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

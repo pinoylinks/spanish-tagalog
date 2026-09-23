@@ -1,7 +1,7 @@
 ---
 title: "Soslayo (Al ó De)"
 slug: soslayo-al-o-de
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - m
   - adv

@@ -1,7 +1,7 @@
 ---
 title: "Tibio, bia"
 slug: tibio-bia
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
   - fig

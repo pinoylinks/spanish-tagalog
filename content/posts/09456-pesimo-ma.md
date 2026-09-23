@@ -1,7 +1,7 @@
 ---
 title: "Pésimo, ma"
 slug: pesimo-ma
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Pian, piano"
 slug: pian-piano
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - m.
   - adv.

@@ -1,7 +1,7 @@
 ---
 title: "Primerizo, za"
 slug: primerizo-za
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
   - f.

@@ -1,7 +1,7 @@
 ---
 title: "Recuerdo"
 slug: recuerdo
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - m.
   - pl.

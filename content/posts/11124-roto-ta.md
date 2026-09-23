@@ -1,7 +1,7 @@
 ---
 title: "Roto, ta"
 slug: roto-ta
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - p.
   - s.

@@ -1,7 +1,7 @@
 ---
 title: "Tributante"
 slug: tributante
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - p
   - a

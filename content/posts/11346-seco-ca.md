@@ -1,7 +1,7 @@
 ---
 title: "Seco, ca"
 slug: seco-ca
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
 ---

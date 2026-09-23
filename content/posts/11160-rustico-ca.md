@@ -1,7 +1,7 @@
 ---
 title: "Rústico, ca"
 slug: rustico-ca
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
   - m.

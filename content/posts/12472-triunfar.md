@@ -1,7 +1,7 @@
 ---
 title: "Triunfar"
 slug: triunfar
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - n
 ---

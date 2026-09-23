@@ -1,7 +1,7 @@
 ---
 title: "Setentón, na"
 slug: setenton-na
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
 ---

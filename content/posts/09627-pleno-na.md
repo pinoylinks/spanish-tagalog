@@ -1,7 +1,7 @@
 ---
 title: "Pleno, na"
 slug: pleno-na
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

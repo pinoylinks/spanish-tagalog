@@ -1,7 +1,7 @@
 ---
 title: "Superfluo, flua"
 slug: superfluo-flua
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
 ---

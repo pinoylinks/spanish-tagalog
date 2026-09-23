@@ -1,7 +1,7 @@
 ---
 title: "Propiciatorio, ria"
 slug: propiciatorio-ria
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

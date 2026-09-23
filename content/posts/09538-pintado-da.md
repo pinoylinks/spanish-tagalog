@@ -1,7 +1,7 @@
 ---
 title: "Pintado, da"
 slug: pintado-da
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj.
 ---

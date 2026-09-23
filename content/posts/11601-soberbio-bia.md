@@ -1,7 +1,7 @@
 ---
 title: "Soberbio, bia"
 slug: soberbio-bia
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - adj
   - fig

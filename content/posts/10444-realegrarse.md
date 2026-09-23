@@ -1,7 +1,7 @@
 ---
 title: "Realegrarse"
 slug: realegrarse
-date: 2026-08-15
+date: 2026-08-14
 tags:
   - r.
 ---
