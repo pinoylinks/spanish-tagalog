@@ -1,0 +1,9 @@
+---
+title: "Prólogo"
+slug: prologo
+date: 2026-08-15
+tags:
+  - m.
+---
+
+m. Páunáng salitâ, na inilálagáy sa unahán ng aklát.

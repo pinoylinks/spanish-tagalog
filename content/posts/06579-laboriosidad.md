@@ -1,0 +1,9 @@
+---
+title: "Laboriosidad"
+slug: laboriosidad
+date: 2026-08-14
+tags:
+  - f.
+---
+
+f. Sipag; kasipagan; sikap sa paggawâ.

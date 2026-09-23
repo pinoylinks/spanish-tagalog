@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+public
+resources
+backup
+static/videos-backup
+.env
+.hugo_build.lock
+config.toml
+assets/js/

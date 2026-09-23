@@ -1,0 +1,11 @@
+---
+title: "Roncear"
+slug: roncear
+date: 2026-08-15
+tags:
+  - a.
+---
+
+a. Paghimanhiminin; ó lantutayín ang anománg gawâ.
+
+Palibanlibanin.

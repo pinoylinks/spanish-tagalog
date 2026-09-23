@@ -1,0 +1,9 @@
+---
+title: "Polvorear"
+slug: polvorear
+date: 2026-08-15
+tags:
+  - a.
+---
+
+a. Budburán ó sabugan ng alabók ang anomán; gabukán.

@@ -1,0 +1,10 @@
+---
+title: "Quevedos"
+slug: quevedos
+date: 2026-08-15
+tags:
+  - m.
+  - pl.
+---
+
+m. pl. Ang sajamín sa matá, na kamá ó kabít sa ilóng.

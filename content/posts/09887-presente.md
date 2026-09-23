@@ -1,0 +1,17 @@
+---
+title: "Presente"
+slug: presente
+date: 2026-08-15
+tags:
+  - adj.
+  - Gram.
+  - m.
+---
+
+adj. Nakaharáp; ó na sa haráp ng sínomán.
+
+Kasalukuyang panahón.
+
+Gram. Ang panahóng kasalukuyan.
+
+m. Handóg; alay; hain.

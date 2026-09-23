@@ -1,0 +1,9 @@
+---
+title: "Romeral"
+slug: romeral
+date: 2026-08-15
+tags:
+  - m.
+---
+
+m. Lugál na maraming taním na romero.

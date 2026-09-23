@@ -1,0 +1,9 @@
+---
+title: "Desmemoriado, da"
+slug: desmemoriado-da
+date: 2026-08-14
+tags:
+  - adj.
+---
+
+adj. Malilimutín.

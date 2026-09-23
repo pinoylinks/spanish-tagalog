@@ -1,0 +1,9 @@
+---
+title: "Amabilidad"
+slug: amabilidad
+date: 2026-08-14
+tags:
+  - f.
+---
+
+f. Kagandang loób; kalubayáng loób.

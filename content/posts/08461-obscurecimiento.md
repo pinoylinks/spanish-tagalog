@@ -1,0 +1,9 @@
+---
+title: "Obscurecimiento"
+slug: obscurecimiento
+date: 2026-08-15
+tags:
+  - m.
+---
+
+m. Pagdilím; ó pagdidilím.

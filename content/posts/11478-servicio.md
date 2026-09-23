@@ -1,0 +1,15 @@
+---
+title: "Servicio"
+slug: servicio
+date: 2026-08-15
+tags:
+  - m
+---
+
+m. Paglilingkód; pagsisilbí; pagkakálingà.
+
+Pagkautusán; pagkaalilà.
+
+Pamimintuhò sa Dios.
+
+Ang tataián; ó basín.

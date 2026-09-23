@@ -1,0 +1,14 @@
+---
+title: "Tropel"
+slug: tropel
+date: 2026-08-15
+tags:
+  - m
+  - fig
+---
+
+m. Gálawan, ó kilos na maguló ng maraming tao ó ng mg̃a bagay.
+
+Pagmamadalí; pagtutumulin.
+
+fig. Kaguluhán; pagkakábuntón.

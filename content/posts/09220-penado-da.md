@@ -1,0 +1,15 @@
+---
+title: "Penado, da"
+slug: penado-da
+date: 2026-08-15
+tags:
+  - adj.
+  - m.
+  - f.
+---
+
+adj. Ang may hirap; ó nahíhirapan.
+
+Mahirap na gawâ.
+
+m. y f. Ang pinarusahan.

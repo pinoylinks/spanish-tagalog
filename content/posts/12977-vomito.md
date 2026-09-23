@@ -1,0 +1,11 @@
+---
+title: "Vómito"
+slug: vomito
+date: 2026-08-15
+tags:
+  - m
+---
+
+m. Pagsuka.
+
+Suka.

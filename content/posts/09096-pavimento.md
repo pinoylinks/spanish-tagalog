@@ -1,0 +1,9 @@
+---
+title: "Pavimento"
+slug: pavimento
+date: 2026-08-15
+tags:
+  - m.
+---
+
+m. Alinmáng sahíg na bató ó lariyó ng isáng bahay ó gusalì.

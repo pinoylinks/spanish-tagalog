@@ -1,0 +1,9 @@
+---
+title: "Ignominia"
+slug: ignominia
+date: 2026-08-14
+tags:
+  - f.
+---
+
+f. Kadustâán; kapalibhasàan; kamuraháng hayág sa madlâ.

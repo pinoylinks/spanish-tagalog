@@ -1,0 +1,11 @@
+---
+title: "Observar"
+slug: observar
+date: 2026-08-15
+tags:
+  - a.
+---
+
+a. Masdán; malasin; matyagán ang anománg bagay.
+
+Sundín ó tuparín ang anománg utos ó katungkulan.

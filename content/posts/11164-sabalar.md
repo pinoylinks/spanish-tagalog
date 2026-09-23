@@ -1,0 +1,9 @@
+---
+title: "Sabalar"
+slug: sabalar
+date: 2026-08-15
+tags:
+  - m.
+---
+
+m. Lambát, ó anománg panghuli ng bangós.

@@ -1,0 +1,12 @@
+---
+title: "Universo, sa"
+slug: universo-sa
+date: 2026-08-15
+tags:
+  - adj
+  - m
+---
+
+adj. Panglahát; laganap.
+
+m. Sangdaigdíg; sangsinukob.

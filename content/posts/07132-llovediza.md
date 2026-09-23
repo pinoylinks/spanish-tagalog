@@ -1,0 +1,9 @@
+---
+title: "Llovediza"
+slug: llovediza
+date: 2026-08-14
+tags:
+  - f.
+---
+
+f. Tubig na ulán.

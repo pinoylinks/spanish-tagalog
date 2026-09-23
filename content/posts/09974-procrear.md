@@ -1,0 +1,9 @@
+---
+title: "Procrear"
+slug: procrear
+date: 2026-08-15
+tags:
+  - a.
+---
+
+a. Papaganakín; paramihin; ó pakapalín ang anománg bagay.

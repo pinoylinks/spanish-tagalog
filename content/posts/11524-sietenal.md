@@ -1,0 +1,9 @@
+---
+title: "Sieteñal"
+slug: sietenal
+date: 2026-08-15
+tags:
+  - adj
+---
+
+adj. May pitóng taón.
