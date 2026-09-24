@@ -1,0 +1,85 @@
+<main class="main single" id="main">
+    <div class="main-inner">
+
+        {{ $attrs := partial "utils/data-attributes.html" . }}
+
+        <article class="content post h-entry"
+        {{- with .Params.languageCode }} lang="{{ . }}"{{ end }}
+        {{- if $attrs.smallCaps }} data-small-caps="true"{{ end }}
+        {{- with $attrs.align }} data-align="{{ . }}"{{ end }}
+        {{- with $attrs.type }} data-type="{{ . }}"{{ end }}
+        {{- with $attrs.layout }} data-layout="{{ . }}"{{ end }}
+        {{- if $attrs.indent }} data-indent="true"{{ end }}
+        {{- if $attrs.tocNum }} data-toc-num="true"{{ end }}>
+
+            <h1 class="post-title p-name">{{ (partial "utils/title.html" (dict "$" $ "title" $.Title)).htmlTitle }}</h1>
+
+            {{ with .Params.subtitle }}
+                {{- $raw := . -}}
+                <div class="post-subtitle p-name">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
+            {{ end }}
+
+            {{ if .Site.Params.displayPostDescription }}
+                {{ with .Params.description }}
+                    {{- $raw := . -}}
+                    <div class="post-description p-summary">{{ partial "utils/markdownify.html" (dict "$" $ "raw" $raw "isContent" false) }}</div>
+                {{ end }}
+            {{ end }}
+
+            {{ if .Params.meta | default .Site.Params.enablePostMeta }}
+                {{ partial "components/post-meta.html" (dict "$" . "isHome" false) }}
+            {{ end }}
+
+            {{ $enableTOC := .Params.toc | default .Site.Params.enableTOC -}}
+            {{- if $enableTOC -}}
+                {{- partial "utils/toc.html" . -}}
+            {{- end -}}
+
+            <div class="post-body e-content">
+                {{ partial "utils/content.html" . }}
+            </div>
+
+            {{ partial "components/post-copyright.html" . }}
+
+        </article>
+
+        {{ with .File }}
+        <br>
+        <br>
+        <div class="edit-page">
+            <a href="https://github.com/pinoylinks/spanish-tagalog/edit/main/content/{{ .Path }}"
+               target="_blank"
+               rel="noopener noreferrer">
+                <span class="post-meta-item wordcount">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon">
+                        <path d="M497.9 142.1l-46.1 46.1c-4.7 4.7-12.3 4.7-17 0l-111-111c-4.7-4.7-4.7-12.3 0-17l46.1-46.1c18.7-18.7 49.1-18.7 67.9 0l60.1 60.1c18.8 18.7 18.8 49.1 0 67.9zM284.2 99.8L21.6 362.4.4 483.9c-2.9 16.4 11.4 30.6 27.8 27.8l121.5-21.3 262.6-262.6c4.7-4.7 4.7-12.3 0-17l-111-111c-4.8-4.7-12.4-4.7-17.1 0zM124.1 339.9c-5.5-5.5-5.5-14.3 0-19.8l154-154c5.5-5.5 14.3-5.5 19.8 0s5.5 14.3 0 19.8l-154 154c-5.5 5.5-14.3 5.5-19.8 0zM88 424h48v36.3l-64.5 11.3-31.1-31.1L51.7 376H88v48z"></path>
+                    </svg>&nbsp;<strong>Edit this page</strong>
+                </span>
+            </a>
+        </div>
+        {{ end }}      
+
+        {{ if and .Site.Params.enableGoogleAdUnits (eq hugo.Environment "production") -}}
+            {{ partial "third-party/google-adsense-unit.html" . }}
+        {{- end }}
+
+        {{ partial "components/post-updated-badge.html" . }}
+
+        {{ partial "components/post-gitinfo.html" . }}
+
+        {{ partial "components/post-share.html" . }}
+
+        {{ partial "components/related-posts.html" . }}
+
+        {{ partial "components/post-tags.html" . }}
+
+        {{ partial "components/minimal-footer.html" . }}
+
+        {{ partial "components/minimal-footer-about.html" . }}
+
+        {{ partial "components/post-nav.html" . }}
+
+        {{ partial "components/comments.html" . }}
+
+    </div>
+</main>
