@@ -50,6 +50,8 @@
 
                     <!-- Start List -->
                     {{ $pages := .Scratch.Get "pages" }}
+                    {{ $pages = $pages.Reverse }}
+
                     {{ range $pages.GroupByDate "2006" }}
                         {{ $.Scratch.Delete "zodiacName" }}
                         {{ if $.Site.Params.chineseZodiac }}
@@ -76,6 +78,7 @@
                         {{ end }}
                         {{ $year := $.Scratch.Get "year" }}
                         <!-- <h2 class="list-year">{{ $year }}{{ if $.Site.Params.chineseZodiac }}{{ partial "utils/icon.html" (dict "$" $ "name" $zodiacName "class" "chinese-zodiac") }}{{ end }}</h2> -->
+
                         {{ if $.Site.Params.groupByMonth }}
                             {{ range .Pages.GroupByDate "January" }}
                                 {{ $.Scratch.Delete "month" }}
